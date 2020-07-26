@@ -11,7 +11,7 @@ Completed On: 26th July
 
 ## My Work
 
-![JavaScript calculator]()
+![JavaScript calculator](https://github.com/amritanshu-kk/javascript-calculator/blob/master/screenshot.png)
 
 ## The prerequisites
 Before you start building this project please make sure you have a decent command of JavaScript. Minimally, you need to know these things:
