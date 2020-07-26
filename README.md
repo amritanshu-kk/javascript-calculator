@@ -3,14 +3,6 @@
 This is one of my class project using HTML CSS & Javascript
 Completed On: 26th July  
 
-## Objectives
-
-Build an app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/rLJZrA/.
-
-**Rule #1**: Don't look at the example project's code. Figure it out for yourself.
-
-**Rule #2**: Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
-
 ## User Stories
 
 - I can add, subtract, multiply and divide two numbers.
@@ -19,4 +11,15 @@ Build an app that is functionally similar to this: https://codepen.io/FreeCodeCa
 
 ## My Work
 
-![JavaScript calculator](https://cdn.rawgit.com/ayoisaiah/javascript-calculator/012d4c5f/screenshot.png)
+![JavaScript calculator]()
+
+## The prerequisites
+Before you start building this project please make sure you have a decent command of JavaScript. Minimally, you need to know these things:
+
+1. If/else statements
+2. For loops
+3. JavaScript functions
+4. Arrow functions
+&& and || operators
+5. How to change the text with the textContent property
+6. How to add event listeners with the event delegation pattern
